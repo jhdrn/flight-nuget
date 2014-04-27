@@ -8,6 +8,8 @@
     <licenseUrl>https://github.com/flightjs/flight/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/flightjs/flight</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	<title>Flight (standalone version)</title>
+	<summary>An event-driven web framework, from Twitter</summary>
     <description>Flight is a lightweight, component-based, event-driven JavaScript framework that maps behavior to DOM nodes. It was created at Twitter, and is used by the twitter.com and TweetDeck web applications.</description>
     <tags>twitter flight flightjs javascript jquery</tags>
 	<copyright>Twitter, Inc.</copyright>
