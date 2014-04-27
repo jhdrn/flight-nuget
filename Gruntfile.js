@@ -4,7 +4,7 @@ module.exports = function(grunt) {
   grunt.initConfig({
     nugetpack: {
         dist: {
-            src: ['flight.nuspec', 'flight-standalone.nuspec'],
+            src: ['Flight.nuspec', 'Flight.Standalone.nuspec'],
             dest: 'dist/'
         }
     }/*,
