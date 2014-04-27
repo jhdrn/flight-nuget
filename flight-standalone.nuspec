@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Flight-standalone</id>
+    <version>1.0.3</version>
+    <authors>@angus-c, @danwrong, @kpk</authors>
+    <owners>@jonathanhedren</owners>
+    <licenseUrl>https://github.com/flightjs/flight/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/flightjs/flight</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Flight is a lightweight, component-based, event-driven JavaScript framework that maps behavior to DOM nodes. It was created at Twitter, and is used by the twitter.com and TweetDeck web applications.</description>
+    <tags>flight flightjs</tags>
+	<copyright>Twitter, Inc.</copyright>
+    <dependencies>
+      <dependency id="jQuery" version="1.8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bower_components\flight-standalone\**\*.js" target="Scripts" /> 
+  </files>
+</package>

@@ -1,0 +1,24 @@
+{
+  "name": "flight-nuget",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jonathanhedren/flight-nuget",
+  "authors": [
+    "Jonathan Hedrén <jonathan.hedren@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flight-standalone": "~1.1.3",
+    "flight": "~1.1.4"
+  }
+}
