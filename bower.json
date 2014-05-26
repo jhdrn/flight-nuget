@@ -18,7 +18,7 @@
     "tests"
   ],
   "dependencies": {
-    "flight-standalone": "~1.1.3",
+    "flight-standalone": "~1.1.4",
     "flight": "~1.1.4"
   }
 }
